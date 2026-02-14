@@ -1,0 +1,2210 @@
+[
+  {
+    "game_id": 84502,
+    "game_name": "生死百搭",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.373084",
+    "status": "success"
+  },
+  {
+    "game_id": 98488,
+    "game_name": "開錯勿開",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.398354",
+    "status": "success"
+  },
+  {
+    "game_id": 84210,
+    "game_name": "通緝或百搭",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.406191",
+    "status": "success"
+  },
+  {
+    "game_id": 83334,
+    "game_name": "地獄獵犬",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.407191",
+    "status": "success"
+  },
+  {
+    "game_id": 82458,
+    "game_name": "雲公主",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.413418",
+    "status": "success"
+  },
+  {
+    "game_id": 99121,
+    "game_name": "雷神之錘 II：雷霆風暴",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.416057",
+    "status": "success"
+  },
+  {
+    "game_id": 83626,
+    "game_name": "安息之城",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.419572",
+    "status": "success"
+  },
+  {
+    "game_id": 83918,
+    "game_name": "強盜寶藏",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.433439",
+    "status": "success"
+  },
+  {
+    "game_id": 82750,
+    "game_name": "邁阿密混亂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.433969",
+    "status": "success"
+  },
+  {
+    "game_id": 84794,
+    "game_name": "美杜莎之眼",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.438675",
+    "status": "success"
+  },
+  {
+    "game_id": 82166,
+    "game_name": "野木詛咒",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.691477",
+    "status": "success"
+  },
+  {
+    "game_id": 81874,
+    "game_name": "願望實現者",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:28.933758",
+    "status": "success"
+  },
+  {
+    "game_id": 78986,
+    "game_name": "黃金捲軸",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.188890",
+    "status": "success"
+  },
+  {
+    "game_id": 79276,
+    "game_name": "永恆之沙 2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.209810",
+    "status": "success"
+  },
+  {
+    "game_id": 78696,
+    "game_name": "永恆黃昏",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.217605",
+    "status": "success"
+  },
+  {
+    "game_id": 78406,
+    "game_name": "亡靈秘寶",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.225694",
+    "status": "success"
+  },
+  {
+    "game_id": 80436,
+    "game_name": "釀酒兄弟",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.226586",
+    "status": "success"
+  },
+  {
+    "game_id": 79566,
+    "game_name": "幸運露西與猩紅寶石",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.236673",
+    "status": "success"
+  },
+  {
+    "game_id": 81582,
+    "game_name": "雅典娜之矛",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.245004",
+    "status": "success"
+  },
+  {
+    "game_id": 79856,
+    "game_name": "黑道霸王",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.247038",
+    "status": "success"
+  },
+  {
+    "game_id": 80146,
+    "game_name": "幸運路西法",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.262643",
+    "status": "success"
+  },
+  {
+    "game_id": 81290,
+    "game_name": "太陽公主",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.282570",
+    "status": "success"
+  },
+  {
+    "game_id": 78116,
+    "game_name": "現金貓熊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.467538",
+    "status": "success"
+  },
+  {
+    "game_id": 70210,
+    "game_name": "QT平台入口",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.689039",
+    "status": "success"
+  },
+  {
+    "game_id": 45116,
+    "game_name": "辣椒土匪",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.940731",
+    "status": "success"
+  },
+  {
+    "game_id": 45287,
+    "game_name": "鯊魚狂潮",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.950681",
+    "status": "success"
+  },
+  {
+    "game_id": 44336,
+    "game_name": "維京傳奇",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.954341",
+    "status": "success"
+  },
+  {
+    "game_id": 44676,
+    "game_name": "瘋香蕉",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.955020",
+    "status": "success"
+  },
+  {
+    "game_id": 44166,
+    "game_name": "熊貓之眼",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.961259",
+    "status": "success"
+  },
+  {
+    "game_id": 44506,
+    "game_name": "生與死",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.973850",
+    "status": "success"
+  },
+  {
+    "game_id": 43996,
+    "game_name": "黎明決鬥",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.976557",
+    "status": "success"
+  },
+  {
+    "game_id": 43826,
+    "game_name": "美國終極老虎機",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.983768",
+    "status": "success"
+  },
+  {
+    "game_id": 43656,
+    "game_name": "奢華",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:29.996590",
+    "status": "success"
+  },
+  {
+    "game_id": 43486,
+    "game_name": "餘燼之境 40K",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.049250",
+    "status": "success"
+  },
+  {
+    "game_id": 43316,
+    "game_name": "鴻運熊貓",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.456797",
+    "status": "success"
+  },
+  {
+    "game_id": 43146,
+    "game_name": "仙境傳說40K",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.652762",
+    "status": "success"
+  },
+  {
+    "game_id": 38370,
+    "game_name": "戰神賽特2覺醒之力",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.675784",
+    "status": "success"
+  },
+  {
+    "game_id": 40580,
+    "game_name": "仙境傳說",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.676606",
+    "status": "success"
+  },
+  {
+    "game_id": 17234,
+    "game_name": "魔獸世界",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.682201",
+    "status": "success"
+  },
+  {
+    "game_id": 40742,
+    "game_name": "澤宙斯",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.695981",
+    "status": "success"
+  },
+  {
+    "game_id": 10398,
+    "game_name": "神通對決",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.696619",
+    "status": "success"
+  },
+  {
+    "game_id": 42976,
+    "game_name": "餘燼之境",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.701969",
+    "status": "success"
+  },
+  {
+    "game_id": 10442,
+    "game_name": "二人麻將",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.713089",
+    "status": "success"
+  },
+  {
+    "game_id": 17306,
+    "game_name": "鬥雞",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.715839",
+    "status": "success"
+  },
+  {
+    "game_id": 10354,
+    "game_name": "大法師",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.730284",
+    "status": "success"
+  },
+  {
+    "game_id": 10310,
+    "game_name": "戰神賽特",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:30.920540",
+    "status": "success"
+  },
+  {
+    "game_id": 3842,
+    "game_name": "博登",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.146874",
+    "status": "success"
+  },
+  {
+    "game_id": 2928,
+    "game_name": "蟲蟲樂園",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.541909",
+    "status": "success"
+  },
+  {
+    "game_id": 2900,
+    "game_name": "奇幻海洋",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.542903",
+    "status": "success"
+  },
+  {
+    "game_id": 2432,
+    "game_name": "錢多多",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.552049",
+    "status": "success"
+  },
+  {
+    "game_id": 2420,
+    "game_name": "勇闖黃金城[rsg]",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.556549",
+    "status": "success"
+  },
+  {
+    "game_id": 4352,
+    "game_name": "正宗澳門百家樂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.557815",
+    "status": "success"
+  },
+  {
+    "game_id": 2914,
+    "game_name": "星戰",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.564481",
+    "status": "success"
+  },
+  {
+    "game_id": 4332,
+    "game_name": "金牛王-百人",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.567313",
+    "status": "success"
+  },
+  {
+    "game_id": 3860,
+    "game_name": "骰寶",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.582289",
+    "status": "success"
+  },
+  {
+    "game_id": 2665,
+    "game_name": "赤三國",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.582864",
+    "status": "success"
+  },
+  {
+    "game_id": 4372,
+    "game_name": "Belangkai",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:31.593807",
+    "status": "success"
+  },
+  {
+    "game_id": 2408,
+    "game_name": "赌场大战",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.273724",
+    "status": "success"
+  },
+  {
+    "game_id": 2407,
+    "game_name": "安达巴哈",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.294152",
+    "status": "success"
+  },
+  {
+    "game_id": 2405,
+    "game_name": "炸金花 / 三公 / 印度炸金花20-20",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.384497",
+    "status": "success"
+  },
+  {
+    "game_id": 2409,
+    "game_name": "无限二十一点",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.408032",
+    "status": "success"
+  },
+  {
+    "game_id": 2406,
+    "game_name": "终极德州扑克",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.409892",
+    "status": "success"
+  },
+  {
+    "game_id": 2404,
+    "game_name": "牛牛",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.422519",
+    "status": "success"
+  },
+  {
+    "game_id": 2401,
+    "game_name": "轮盘",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.424373",
+    "status": "success"
+  },
+  {
+    "game_id": 2403,
+    "game_name": "石头剪刀布",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.428975",
+    "status": "success"
+  },
+  {
+    "game_id": 2400,
+    "game_name": "龙虎",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.433916",
+    "status": "success"
+  },
+  {
+    "game_id": 2402,
+    "game_name": "经典博丁 / 庄闲博丁",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.444779",
+    "status": "success"
+  },
+  {
+    "game_id": 2399,
+    "game_name": "色碟",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.597097",
+    "status": "success"
+  },
+  {
+    "game_id": 2398,
+    "game_name": "鱼虾蟹",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.601766",
+    "status": "success"
+  },
+  {
+    "game_id": 2397,
+    "game_name": "骰宝 / HiLo / 骰摊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.788978",
+    "status": "success"
+  },
+  {
+    "game_id": 2396,
+    "game_name": "保险百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.862022",
+    "status": "success"
+  },
+  {
+    "game_id": 2395,
+    "game_name": "咪牌百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.886698",
+    "status": "success"
+  },
+  {
+    "game_id": 2394,
+    "game_name": "快速百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.911777",
+    "status": "success"
+  },
+  {
+    "game_id": 2392,
+    "game_name": "普通百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:32.988999",
+    "status": "success"
+  },
+  {
+    "game_id": 2393,
+    "game_name": "VIP百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.047857",
+    "status": "success"
+  },
+  {
+    "game_id": 2388,
+    "game_name": "區塊鏈百家",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.075832",
+    "status": "success"
+  },
+  {
+    "game_id": 2389,
+    "game_name": "龍虎",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.081550",
+    "status": "success"
+  },
+  {
+    "game_id": 2390,
+    "game_name": "區塊鏈龍虎",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.164272",
+    "status": "success"
+  },
+  {
+    "game_id": 2391,
+    "game_name": "輪盤",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.166492",
+    "status": "success"
+  },
+  {
+    "game_id": 2387,
+    "game_name": "極速百家",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.184840",
+    "status": "success"
+  },
+  {
+    "game_id": 2386,
+    "game_name": "百家樂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.236225",
+    "status": "success"
+  },
+  {
+    "game_id": 2385,
+    "game_name": "色碟",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.253698",
+    "status": "success"
+  },
+  {
+    "game_id": 2384,
+    "game_name": "番摊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.293919",
+    "status": "success"
+  },
+  {
+    "game_id": 2380,
+    "game_name": "龙虎",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.451472",
+    "status": "success"
+  },
+  {
+    "game_id": 2383,
+    "game_name": "牛牛",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.512901",
+    "status": "success"
+  },
+  {
+    "game_id": 2382,
+    "game_name": "骰宝",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.533614",
+    "status": "success"
+  },
+  {
+    "game_id": 2378,
+    "game_name": "骰子比大小",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.542408",
+    "status": "success"
+  },
+  {
+    "game_id": 2377,
+    "game_name": "四人麻将",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.550882",
+    "status": "success"
+  },
+  {
+    "game_id": 2381,
+    "game_name": "轮盘",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.553957",
+    "status": "success"
+  },
+  {
+    "game_id": 2379,
+    "game_name": "百家乐",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.564240",
+    "status": "success"
+  },
+  {
+    "game_id": 2376,
+    "game_name": "巫師商店黃金版",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.566413",
+    "status": "success"
+  },
+  {
+    "game_id": 2375,
+    "game_name": "巫師商店",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.568725",
+    "status": "success"
+  },
+  {
+    "game_id": 2374,
+    "game_name": "竹林熊貓",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.614678",
+    "status": "success"
+  },
+  {
+    "game_id": 2373,
+    "game_name": "提金派對",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.732393",
+    "status": "success"
+  },
+  {
+    "game_id": 2372,
+    "game_name": "賣火柴的小女孩",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.895760",
+    "status": "success"
+  },
+  {
+    "game_id": 2371,
+    "game_name": "泰山",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.896510",
+    "status": "success"
+  },
+  {
+    "game_id": 2370,
+    "game_name": "太極",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.902326",
+    "status": "success"
+  },
+  {
+    "game_id": 2369,
+    "game_name": "甜蜜糖果",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.912268",
+    "status": "success"
+  },
+  {
+    "game_id": 2368,
+    "game_name": "超級王牌2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.922275",
+    "status": "success"
+  },
+  {
+    "game_id": 2366,
+    "game_name": "皇家7777",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.939958",
+    "status": "success"
+  },
+  {
+    "game_id": 2364,
+    "game_name": "羅馬競技場",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.940584",
+    "status": "success"
+  },
+  {
+    "game_id": 2367,
+    "game_name": "潑水節",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.965164",
+    "status": "success"
+  },
+  {
+    "game_id": 2365,
+    "game_name": "皇家777",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.970469",
+    "status": "success"
+  },
+  {
+    "game_id": 2363,
+    "game_name": "麻將發了2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:33.990926",
+    "status": "success"
+  },
+  {
+    "game_id": 2361,
+    "game_name": "海神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.314269",
+    "status": "success"
+  },
+  {
+    "game_id": 2360,
+    "game_name": "大力水手",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.491882",
+    "status": "success"
+  },
+  {
+    "game_id": 2362,
+    "game_name": "鼠來寶",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.589443",
+    "status": "success"
+  },
+  {
+    "game_id": 2359,
+    "game_name": "金豬爆吉",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.609974",
+    "status": "success"
+  },
+  {
+    "game_id": 2354,
+    "game_name": "忍者",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.612109",
+    "status": "success"
+  },
+  {
+    "game_id": 2358,
+    "game_name": "法老王",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.614873",
+    "status": "success"
+  },
+  {
+    "game_id": 2355,
+    "game_name": "永不停止",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.628367",
+    "status": "success"
+  },
+  {
+    "game_id": 2356,
+    "game_name": "八爪天下海霸王",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.630528",
+    "status": "success"
+  },
+  {
+    "game_id": 2353,
+    "game_name": "霓紅圓",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.630911",
+    "status": "success"
+  },
+  {
+    "game_id": 2357,
+    "game_name": "法老王 II",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.631348",
+    "status": "success"
+  },
+  {
+    "game_id": 2352,
+    "game_name": "秘林熊貓",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.668848",
+    "status": "success"
+  },
+  {
+    "game_id": 2351,
+    "game_name": "家犬先生",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.870594",
+    "status": "success"
+  },
+  {
+    "game_id": 2350,
+    "game_name": "人魚傳說",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:34.959615",
+    "status": "success"
+  },
+  {
+    "game_id": 2344,
+    "game_name": "狗來富",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.401975",
+    "status": "success"
+  },
+  {
+    "game_id": 2345,
+    "game_name": "幸運水果",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.425820",
+    "status": "success"
+  },
+  {
+    "game_id": 2342,
+    "game_name": "黃金摔角手",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.439848",
+    "status": "success"
+  },
+  {
+    "game_id": 2340,
+    "game_name": "女忍者",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.443186",
+    "status": "success"
+  },
+  {
+    "game_id": 2349,
+    "game_name": "美杜莎",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.456527",
+    "status": "success"
+  },
+  {
+    "game_id": 2343,
+    "game_name": "幸運拉霸",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.459463",
+    "status": "success"
+  },
+  {
+    "game_id": 2346,
+    "game_name": "泰好運",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.462504",
+    "status": "success"
+  },
+  {
+    "game_id": 2347,
+    "game_name": "魔法石",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.466526",
+    "status": "success"
+  },
+  {
+    "game_id": 2341,
+    "game_name": "慾望城市",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.468847",
+    "status": "success"
+  },
+  {
+    "game_id": 2348,
+    "game_name": "美狄亞",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.470740",
+    "status": "success"
+  },
+  {
+    "game_id": 2339,
+    "game_name": "侏儸紀寶藏",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.649436",
+    "status": "success"
+  },
+  {
+    "game_id": 2338,
+    "game_name": "動物叢林",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.710899",
+    "status": "success"
+  },
+  {
+    "game_id": 2337,
+    "game_name": "果凍27",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.866650",
+    "status": "success"
+  },
+  {
+    "game_id": 2336,
+    "game_name": "墨西哥辣椒",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.887687",
+    "status": "success"
+  },
+  {
+    "game_id": 2335,
+    "game_name": "HUSA",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:35.985469",
+    "status": "success"
+  },
+  {
+    "game_id": 2334,
+    "game_name": "野蠻遊戲",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.080382",
+    "status": "success"
+  },
+  {
+    "game_id": 2333,
+    "game_name": "農場夜驚魂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.085091",
+    "status": "success"
+  },
+  {
+    "game_id": 2331,
+    "game_name": "開心農場",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.100478",
+    "status": "success"
+  },
+  {
+    "game_id": 2330,
+    "game_name": "金色幸運草",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.119284",
+    "status": "success"
+  },
+  {
+    "game_id": 2328,
+    "game_name": "財神到",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.122829",
+    "status": "success"
+  },
+  {
+    "game_id": 2332,
+    "game_name": "嘻哈金剛",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.144761",
+    "status": "success"
+  },
+  {
+    "game_id": 2329,
+    "game_name": "金雞報喜",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.146463",
+    "status": "success"
+  },
+  {
+    "game_id": 2327,
+    "game_name": "礦工哥布林",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.187555",
+    "status": "success"
+  },
+  {
+    "game_id": 2326,
+    "game_name": "嗨起來",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.195457",
+    "status": "success"
+  },
+  {
+    "game_id": 2325,
+    "game_name": "福娃捕魚",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.260721",
+    "status": "success"
+  },
+  {
+    "game_id": 2320,
+    "game_name": "能量外星人",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.453737",
+    "status": "success"
+  },
+  {
+    "game_id": 2322,
+    "game_name": "迦羅寶石4",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.474598",
+    "status": "success"
+  },
+  {
+    "game_id": 2323,
+    "game_name": "泰有錢",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.500355",
+    "status": "success"
+  },
+  {
+    "game_id": 2324,
+    "game_name": "福娃發發",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.503530",
+    "status": "success"
+  },
+  {
+    "game_id": 2321,
+    "game_name": "烈焰轉輪",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.507415",
+    "status": "success"
+  },
+  {
+    "game_id": 2317,
+    "game_name": "龍王",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.538226",
+    "status": "success"
+  },
+  {
+    "game_id": 2319,
+    "game_name": "精靈射手",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.541958",
+    "status": "success"
+  },
+  {
+    "game_id": 2318,
+    "game_name": "龍王2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.542354",
+    "status": "success"
+  },
+  {
+    "game_id": 2316,
+    "game_name": "龍行天下",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.581442",
+    "status": "success"
+  },
+  {
+    "game_id": 2315,
+    "game_name": "迪斯可之夜",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.612637",
+    "status": "success"
+  },
+  {
+    "game_id": 2314,
+    "game_name": "跳跳獅",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:36.842277",
+    "status": "success"
+  },
+  {
+    "game_id": 2310,
+    "game_name": "武媚娘",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.079058",
+    "status": "success"
+  },
+  {
+    "game_id": 2309,
+    "game_name": "秦皇傳說",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.100534",
+    "status": "success"
+  },
+  {
+    "game_id": 2312,
+    "game_name": "瘋狂博士",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.105675",
+    "status": "success"
+  },
+  {
+    "game_id": 2311,
+    "game_name": "西部牛仔",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.110233",
+    "status": "success"
+  },
+  {
+    "game_id": 2305,
+    "game_name": "黃金之書",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.121038",
+    "status": "success"
+  },
+  {
+    "game_id": 2307,
+    "game_name": "有請財神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.124145",
+    "status": "success"
+  },
+  {
+    "game_id": 2308,
+    "game_name": "聚寶財神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.130558",
+    "status": "success"
+  },
+  {
+    "game_id": 2304,
+    "game_name": "小熊王國",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.133671",
+    "status": "success"
+  },
+  {
+    "game_id": 2313,
+    "game_name": "皇冠5PK",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.147516",
+    "status": "success"
+  },
+  {
+    "game_id": 2306,
+    "game_name": "荒野水牛",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.162556",
+    "status": "success"
+  },
+  {
+    "game_id": 2303,
+    "game_name": "暴怒棕熊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.355232",
+    "status": "success"
+  },
+  {
+    "game_id": 2302,
+    "game_name": "阿里巴巴",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.618783",
+    "status": "success"
+  },
+  {
+    "game_id": 2300,
+    "game_name": "七十二變",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.657649",
+    "status": "success"
+  },
+  {
+    "game_id": 2301,
+    "game_name": "非洲",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.787490",
+    "status": "success"
+  },
+  {
+    "game_id": 2298,
+    "game_name": "海洋天堂3",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.806572",
+    "status": "success"
+  },
+  {
+    "game_id": 2297,
+    "game_name": "鳳凰世界",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.813229",
+    "status": "success"
+  },
+  {
+    "game_id": 2293,
+    "game_name": "決戰歐洲盃",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.817466",
+    "status": "success"
+  },
+  {
+    "game_id": 2299,
+    "game_name": "百鳥朝鳳-龍虎爭霸",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.824650",
+    "status": "success"
+  },
+  {
+    "game_id": 2294,
+    "game_name": "壽司連連看",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.826220",
+    "status": "success"
+  },
+  {
+    "game_id": 2296,
+    "game_name": "海洋天堂總動員加強版2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.856741",
+    "status": "success"
+  },
+  {
+    "game_id": 2295,
+    "game_name": "蛋糕連連看",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.889168",
+    "status": "success"
+  },
+  {
+    "game_id": 2292,
+    "game_name": "聖誕3驚喜",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.895723",
+    "status": "success"
+  },
+  {
+    "game_id": 2291,
+    "game_name": "鳳凰公主2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:37.964649",
+    "status": "success"
+  },
+  {
+    "game_id": 2290,
+    "game_name": "格鬥學院2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.023228",
+    "status": "success"
+  },
+  {
+    "game_id": 2289,
+    "game_name": "潑水狂歡節",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.056894",
+    "status": "success"
+  },
+  {
+    "game_id": 2284,
+    "game_name": "勇闖黃金城2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.174023",
+    "status": "success"
+  },
+  {
+    "game_id": 2287,
+    "game_name": "富貴年年2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.185967",
+    "status": "success"
+  },
+  {
+    "game_id": 2282,
+    "game_name": "羅馬戰士",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.193484",
+    "status": "success"
+  },
+  {
+    "game_id": 2283,
+    "game_name": "甜心酒BAR",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.206395",
+    "status": "success"
+  },
+  {
+    "game_id": 2286,
+    "game_name": "777-經典款",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.212892",
+    "status": "success"
+  },
+  {
+    "game_id": 2288,
+    "game_name": "超級大胃王",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.215535",
+    "status": "success"
+  },
+  {
+    "game_id": 2281,
+    "game_name": "恭喜發財",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.243590",
+    "status": "success"
+  },
+  {
+    "game_id": 2285,
+    "game_name": "聖誕禮物城",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.250448",
+    "status": "success"
+  },
+  {
+    "game_id": 2280,
+    "game_name": "賭聖",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.289125",
+    "status": "success"
+  },
+  {
+    "game_id": 2279,
+    "game_name": "鳳凰公主",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.309222",
+    "status": "success"
+  },
+  {
+    "game_id": 2278,
+    "game_name": "無盡礦坑",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.503435",
+    "status": "success"
+  },
+  {
+    "game_id": 2276,
+    "game_name": "深海巨妖",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.519745",
+    "status": "success"
+  },
+  {
+    "game_id": 2277,
+    "game_name": "寶石萊姆",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.537526",
+    "status": "success"
+  },
+  {
+    "game_id": 2273,
+    "game_name": "鯉躍龍門",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.545325",
+    "status": "success"
+  },
+  {
+    "game_id": 2275,
+    "game_name": "勇闖黃金城",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.551632",
+    "status": "success"
+  },
+  {
+    "game_id": 2274,
+    "game_name": "幽靈屋敷",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.580913",
+    "status": "success"
+  },
+  {
+    "game_id": 2271,
+    "game_name": "高高手2-加倍旺",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.618070",
+    "status": "success"
+  },
+  {
+    "game_id": 2272,
+    "game_name": "少女神探",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.626591",
+    "status": "success"
+  },
+  {
+    "game_id": 2270,
+    "game_name": "烈日探班-加倍旺",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.627984",
+    "status": "success"
+  },
+  {
+    "game_id": 2269,
+    "game_name": "秘寶王朝2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.647589",
+    "status": "success"
+  },
+  {
+    "game_id": 2268,
+    "game_name": "海灘寶貝2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:38.849930",
+    "status": "success"
+  },
+  {
+    "game_id": 2264,
+    "game_name": "富貴年年",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.000984",
+    "status": "success"
+  },
+  {
+    "game_id": 2267,
+    "game_name": "招財仙子2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.003110",
+    "status": "success"
+  },
+  {
+    "game_id": 2263,
+    "game_name": "祥獅獻瑞-翻轉樂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.055858",
+    "status": "success"
+  },
+  {
+    "game_id": 2260,
+    "game_name": "時光機",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.075741",
+    "status": "success"
+  },
+  {
+    "game_id": 2262,
+    "game_name": "魔境夢遊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.086734",
+    "status": "success"
+  },
+  {
+    "game_id": 2261,
+    "game_name": "海灘寶貝",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.088554",
+    "status": "success"
+  },
+  {
+    "game_id": 2265,
+    "game_name": "秘寶王朝",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.096265",
+    "status": "success"
+  },
+  {
+    "game_id": 2259,
+    "game_name": "UMO",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.101435",
+    "status": "success"
+  },
+  {
+    "game_id": 2266,
+    "game_name": "怪奇聖誕夜2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.115538",
+    "status": "success"
+  },
+  {
+    "game_id": 2258,
+    "game_name": "招財貓",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.146107",
+    "status": "success"
+  },
+  {
+    "game_id": 2256,
+    "game_name": "寶藏獵人",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.253587",
+    "status": "success"
+  },
+  {
+    "game_id": 2257,
+    "game_name": "馬戲團-翻轉樂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.256823",
+    "status": "success"
+  },
+  {
+    "game_id": 2255,
+    "game_name": "瀧神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.413391",
+    "status": "success"
+  },
+  {
+    "game_id": 2253,
+    "game_name": "豪宅大逃殺",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.413935",
+    "status": "success"
+  },
+  {
+    "game_id": 2254,
+    "game_name": "炎神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.418152",
+    "status": "success"
+  },
+  {
+    "game_id": 2252,
+    "game_name": "白蛇傳",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.431071",
+    "status": "success"
+  },
+  {
+    "game_id": 2249,
+    "game_name": "九柱三神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.437514",
+    "status": "success"
+  },
+  {
+    "game_id": 2250,
+    "game_name": "金三石獅",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.459312",
+    "status": "success"
+  },
+  {
+    "game_id": 2251,
+    "game_name": "火龍秘寶",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.475546",
+    "status": "success"
+  },
+  {
+    "game_id": 2248,
+    "game_name": "三隻小豬",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.495480",
+    "status": "success"
+  },
+  {
+    "game_id": 2247,
+    "game_name": "鬥西遊",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.521364",
+    "status": "success"
+  },
+  {
+    "game_id": 2246,
+    "game_name": "幻影忍者",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.534743",
+    "status": "success"
+  },
+  {
+    "game_id": 2245,
+    "game_name": "小紅帽",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.771264",
+    "status": "success"
+  },
+  {
+    "game_id": 2244,
+    "game_name": "冰原雪神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.827186",
+    "status": "success"
+  },
+  {
+    "game_id": 2243,
+    "game_name": "奢華世界",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:39.891344",
+    "status": "success"
+  },
+  {
+    "game_id": 2241,
+    "game_name": "雷神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.017661",
+    "status": "success"
+  },
+  {
+    "game_id": 2240,
+    "game_name": "開心水果攤",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.042730",
+    "status": "success"
+  },
+  {
+    "game_id": 2242,
+    "game_name": "魔法部屋",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.048841",
+    "status": "success"
+  },
+  {
+    "game_id": 2237,
+    "game_name": "啤酒狂歡節",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.055287",
+    "status": "success"
+  },
+  {
+    "game_id": 2236,
+    "game_name": "史前公園",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.062804",
+    "status": "success"
+  },
+  {
+    "game_id": 2238,
+    "game_name": "貓鼠大戰",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.064830",
+    "status": "success"
+  },
+  {
+    "game_id": 2239,
+    "game_name": "邪神異聞錄",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.072566",
+    "status": "success"
+  },
+  {
+    "game_id": 2235,
+    "game_name": "糖果屋",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.080537",
+    "status": "success"
+  },
+  {
+    "game_id": 2234,
+    "game_name": "怪奇聖誕夜",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.125035",
+    "status": "success"
+  },
+  {
+    "game_id": 2233,
+    "game_name": "星際巡航",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.172071",
+    "status": "success"
+  },
+  {
+    "game_id": 2232,
+    "game_name": "瘋狂突變魚",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.331997",
+    "status": "success"
+  },
+  {
+    "game_id": 2227,
+    "game_name": "瘋狂科學家",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.619288",
+    "status": "success"
+  },
+  {
+    "game_id": 2228,
+    "game_name": "約跑",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.791156",
+    "status": "success"
+  },
+  {
+    "game_id": 2222,
+    "game_name": "格鬥學院",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.794764",
+    "status": "success"
+  },
+  {
+    "game_id": 2224,
+    "game_name": "招財仙子",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.798364",
+    "status": "success"
+  },
+  {
+    "game_id": 2225,
+    "game_name": "九尾狐妖",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.801701",
+    "status": "success"
+  },
+  {
+    "game_id": 2230,
+    "game_name": "萬聖夜驚魂",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.805062",
+    "status": "success"
+  },
+  {
+    "game_id": 2223,
+    "game_name": "極道",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.805696",
+    "status": "success"
+  },
+  {
+    "game_id": 2226,
+    "game_name": "守墓人",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.810621",
+    "status": "success"
+  },
+  {
+    "game_id": 2231,
+    "game_name": "惡靈殭屍",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.839444",
+    "status": "success"
+  },
+  {
+    "game_id": 2229,
+    "game_name": "埃及眾神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.867184",
+    "status": "success"
+  },
+  {
+    "game_id": 2221,
+    "game_name": "三倍三國三結義",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:40.913527",
+    "status": "success"
+  },
+  {
+    "game_id": 2220,
+    "game_name": "高高手",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.202821",
+    "status": "success"
+  },
+  {
+    "game_id": 2219,
+    "game_name": "直播女神",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.214011",
+    "status": "success"
+  },
+  {
+    "game_id": 2218,
+    "game_name": "三星報喜",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.253964",
+    "status": "success"
+  },
+  {
+    "game_id": 2217,
+    "game_name": "激鬥泡泡糖",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.299607",
+    "status": "success"
+  },
+  {
+    "game_id": 2216,
+    "game_name": "原始蛋疼人",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.465494",
+    "status": "success"
+  },
+  {
+    "game_id": 2212,
+    "game_name": "熊壽司",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.470088",
+    "status": "success"
+  },
+  {
+    "game_id": 2213,
+    "game_name": "仙境狂想曲",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.473139",
+    "status": "success"
+  },
+  {
+    "game_id": 2214,
+    "game_name": "狐群勾搭",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.476221",
+    "status": "success"
+  },
+  {
+    "game_id": 2215,
+    "game_name": "惡魔血域",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.484360",
+    "status": "success"
+  },
+  {
+    "game_id": 2211,
+    "game_name": "福氣神龍",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.493192",
+    "status": "success"
+  },
+  {
+    "game_id": 2210,
+    "game_name": "金蓮三缺一",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.496417",
+    "status": "success"
+  },
+  {
+    "game_id": 2209,
+    "game_name": "暴雪獵手",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.512140",
+    "status": "success"
+  },
+  {
+    "game_id": 2208,
+    "game_name": "孫行者",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.564569",
+    "status": "success"
+  },
+  {
+    "game_id": 2207,
+    "game_name": "五龙争霸",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:41.569389",
+    "status": "success"
+  },
+  {
+    "game_id": 153,
+    "game_name": "麻將發了",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.230776",
+    "status": "success"
+  },
+  {
+    "game_id": 165,
+    "game_name": "ATG賽馬",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.233107",
+    "status": "success"
+  },
+  {
+    "game_id": 2206,
+    "game_name": "荒野猎杀",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.232169",
+    "status": "success"
+  },
+  {
+    "game_id": 154,
+    "game_name": "武侠",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.247669",
+    "status": "success"
+  },
+  {
+    "game_id": 152,
+    "game_name": "雷神之錘",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.248986",
+    "status": "success"
+  },
+  {
+    "game_id": 151,
+    "game_name": "戰神呂布",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.246740",
+    "status": "success"
+  },
+  {
+    "game_id": 149,
+    "game_name": "海洋天堂2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.257471",
+    "status": "success"
+  },
+  {
+    "game_id": 148,
+    "game_name": "百鳥朝鳳",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.268546",
+    "status": "success"
+  },
+  {
+    "game_id": 150,
+    "game_name": "魔龍傳奇",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.272825",
+    "status": "success"
+  },
+  {
+    "game_id": 147,
+    "game_name": "奧林匹斯-宙斯",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.281039",
+    "status": "success"
+  },
+  {
+    "game_id": 144,
+    "game_name": "通比妞妞",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.626765",
+    "status": "success"
+  },
+  {
+    "game_id": 142,
+    "game_name": "魔龍之戰",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.630664",
+    "status": "success"
+  },
+  {
+    "game_id": 146,
+    "game_name": "元寶麻將2",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.636200",
+    "status": "success"
+  },
+  {
+    "game_id": 143,
+    "game_name": "天狗祭",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.659887",
+    "status": "success"
+  },
+  {
+    "game_id": 141,
+    "game_name": "戰神賽特",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.675653",
+    "status": "success"
+  },
+  {
+    "game_id": 145,
+    "game_name": "搶莊妞妞",
+    "from_brand": 11,
+    "to_brand": 12,
+    "timestamp": "2026-02-14T02:32:42.678320",
+    "status": "success"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "game_id": 99122,
+    "game_name": "雷神之錘 II：雷霆風暴",
+    "original_brand_id": 12,
+    "game_id_field": 298,
+    "status": 1,
+    "order": 13,
+    "hot": 1,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298399"
+  },
+  {
+    "game_id": 98489,
+    "game_name": "開錯勿開",
+    "original_brand_id": 12,
+    "game_id_field": 297,
+    "status": -1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298430"
+  },
+  {
+    "game_id": 85087,
+    "game_name": "王的黎明",
+    "original_brand_id": 12,
+    "game_id_field": 296,
+    "status": -1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298437"
+  },
+  {
+    "game_id": 85086,
+    "game_name": "王的黎明",
+    "original_brand_id": 12,
+    "game_id_field": 296,
+    "status": -1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298442"
+  },
+  {
+    "game_id": 84795,
+    "game_name": "美杜莎之眼",
+    "original_brand_id": 12,
+    "game_id_field": 295,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298447"
+  },
+  {
+    "game_id": 84503,
+    "game_name": "生死百搭",
+    "original_brand_id": 12,
+    "game_id_field": 294,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298451"
+  },
+  {
+    "game_id": 84211,
+    "game_name": "通緝或百搭",
+    "original_brand_id": 12,
+    "game_id_field": 293,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298455"
+  },
+  {
+    "game_id": 83919,
+    "game_name": "強盜寶藏",
+    "original_brand_id": 12,
+    "game_id_field": 292,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298459"
+  },
+  {
+    "game_id": 83627,
+    "game_name": "安息之城",
+    "original_brand_id": 12,
+    "game_id_field": 291,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298463"
+  },
+  {
+    "game_id": 83335,
+    "game_name": "地獄獵犬",
+    "original_brand_id": 12,
+    "game_id_field": 290,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298467"
+  },
+  {
+    "game_id": 83043,
+    "game_name": "彩虹公主",
+    "original_brand_id": 12,
+    "game_id_field": 289,
+    "status": 0,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298471"
+  },
+  {
+    "game_id": 83042,
+    "game_name": "彩虹公主",
+    "original_brand_id": 12,
+    "game_id_field": 289,
+    "status": -1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298475"
+  },
+  {
+    "game_id": 82751,
+    "game_name": "邁阿密混亂",
+    "original_brand_id": 12,
+    "game_id_field": 288,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298479"
+  },
+  {
+    "game_id": 82459,
+    "game_name": "雲公主",
+    "original_brand_id": 12,
+    "game_id_field": 287,
+    "status": -1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298482"
+  },
+  {
+    "game_id": 82167,
+    "game_name": "野木詛咒",
+    "original_brand_id": 12,
+    "game_id_field": 286,
+    "status": 1,
+    "order": 0,
+    "hot": 0,
+    "new": 0,
+    "timestamp": "2026-02-14T02:22:52.298486"
+  }
+]

@@ -6,7 +6,7 @@ import ssl
 
 # ================= 設定參數 =================
 BASE_URL = "https://wpapi.ldjzmr.top/admin/platform_transfer"
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3dwYXBpLmxkanptci50b3AvYWRtaW4vbG9naW4iLCJpYXQiOjE3NzAyMjU1OTIsImV4cCI6MTgwMTc2MTU5MiwibmJmIjoxNzcwMjI1NTkyLCJqdGkiOiJiQmZUbkhYeUU2VUZKWWgzIiwic3ViIjoiNDcwIiwicHJ2IjoiNzIzNDlhZmZkYTA0NGRjMmFkNzBhMzllZjE1MTYzZWE2N2E3MzMxMyJ9.Hsgr2kkguL77IFnH3AqL9Oz8QZx24efuiUiKKQVlm4c"
+TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3dwYXBpLmxkanptci50b3AvYWRtaW4vbG9naW4iLCJpYXQiOjE3NzA0ODg4MTUsImV4cCI6MTgwMjAyNDgxNSwibmJmIjoxNzcwNDg4ODE1LCJqdGkiOiJaemhJekhiVWZvUmRONXp3Iiwic3ViIjoiOTYiLCJwcnYiOiI3MjM0OWFmZmRhMDQ0ZGMyYWQ3MGEzOWVmMTUxNjNlYTY3YTczMzEzIn0.gWtUHU-L0mk98r8YOmln_i74xiC0hsiNKaldh1REkYs"
 PAGE_SIZE = 100 
 OUTPUT_FILE = "品牌積分資料_完整導出.xlsx"
 

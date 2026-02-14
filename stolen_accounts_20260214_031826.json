@@ -1,0 +1,25 @@
+{
+  "scan_time": "2026-02-14T03:18:26.239234",
+  "agent_id": "26",
+  "scan_range": "brand_id 1-500",
+  "scan_duration": 20.385879039764404,
+  "summary": {
+    "total_accounts_stolen": 0,
+    "legitimate_accounts": 0,
+    "unauthorized_accounts": 0,
+    "accounts_with_password": 0
+  },
+  "legitimate_brand_ids": [
+    390,
+    370,
+    254,
+    203,
+    169,
+    147,
+    145,
+    133,
+    104,
+    91
+  ],
+  "all_accounts": []
+}

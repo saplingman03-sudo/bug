@@ -1,0 +1,707 @@
+{
+  "scan_time": "2026-02-15T00:01:00.475205",
+  "total_agents": 70,
+  "agents_with_info": 70,
+  "agents": [
+    {
+      "agent_id": 1,
+      "nickname": "金傑克",
+      "phone": "jjk888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 16,
+      "nickname": "正式服王牌测试代理",
+      "phone": "cswp1111",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 51,
+      "nickname": "國正",
+      "phone": "gz888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 58,
+      "nickname": "阿峰25",
+      "phone": "af888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 64,
+      "nickname": "共創共享",
+      "phone": "gcgs",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 87,
+      "nickname": "至尊寶",
+      "phone": "zzb888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 91,
+      "nickname": "高岳",
+      "phone": "gy888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 96,
+      "nickname": "阿榮",
+      "phone": "ar888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 107,
+      "nickname": "玉米",
+      "phone": "ym888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 133,
+      "nickname": "阿泰",
+      "phone": "at888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 137,
+      "nickname": "李阿哥",
+      "phone": "lag888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 139,
+      "nickname": "丁力",
+      "phone": "di888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 160,
+      "nickname": "威利",
+      "phone": "wl888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 226,
+      "nickname": "阿榮40",
+      "phone": "ar40",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 231,
+      "nickname": "阿賢",
+      "phone": "ax888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 281,
+      "nickname": "威利/套件",
+      "phone": "wl15",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 295,
+      "nickname": "阿賢HK測試",
+      "phone": "axhkcs",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 315,
+      "nickname": "高大電子",
+      "phone": "gd20",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 363,
+      "nickname": "信忠",
+      "phone": "xz17",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 378,
+      "nickname": "錦輪科技",
+      "phone": "jl20",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 383,
+      "nickname": "宗翰",
+      "phone": "zh888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 440,
+      "nickname": "可好(小陳)",
+      "phone": "kh20",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 456,
+      "nickname": "阿峰八方",
+      "phone": "djaf888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 466,
+      "nickname": "鬥雞測試代理",
+      "phone": "djcsdl888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 482,
+      "nickname": "日亨電子",
+      "phone": "rhdz888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 511,
+      "nickname": "鬪雞珍姐",
+      "phone": "djzj888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 520,
+      "nickname": "鬪雞阿鴻",
+      "phone": "djah888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 521,
+      "nickname": "鬪雞阿祥",
+      "phone": "djax888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 536,
+      "nickname": "鬪雞阿榮代理",
+      "phone": "djar555",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 549,
+      "nickname": "鬪雞阿林",
+      "phone": "djal888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 560,
+      "nickname": "丁力dl",
+      "phone": "dl20",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 567,
+      "nickname": "鬪雞昌運代理",
+      "phone": "djcy80",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 620,
+      "nickname": "鬪雞友友下線代理",
+      "phone": "djyy77",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 629,
+      "nickname": "鬪雞阿賢代理",
+      "phone": "djax555",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 644,
+      "nickname": "大合",
+      "phone": "dh888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 658,
+      "nickname": "鬪雞孟均",
+      "phone": "djmj888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 668,
+      "nickname": "張董",
+      "phone": "zd888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 693,
+      "nickname": "尚緯電子",
+      "phone": "sw888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 725,
+      "nickname": "好夢達",
+      "phone": "hmd888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 731,
+      "nickname": "富業電子",
+      "phone": "fydz888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 819,
+      "nickname": "鬪雞阿賢線上代理",
+      "phone": "djax1234",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 876,
+      "nickname": "欣揚科技",
+      "phone": "xykj888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 887,
+      "nickname": "鬪雞育倫代理",
+      "phone": "ww6699",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 899,
+      "nickname": "吳董",
+      "phone": "wd888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 909,
+      "nickname": "松都(阿賢行口)",
+      "phone": "xd888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 993,
+      "nickname": "三重ACE",
+      "phone": "scace0857",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1002,
+      "nickname": "鬪雞賢一線",
+      "phone": "wbs01",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1004,
+      "nickname": "鬪雞三重溪尾",
+      "phone": "scsw01",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1007,
+      "nickname": "三重01專線",
+      "phone": "san01",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1033,
+      "nickname": "鬪雞亞虎代理",
+      "phone": "djyh999",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1080,
+      "nickname": "鬪雞代理福德",
+      "phone": "djfd7777",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1102,
+      "nickname": "鬪雞代理苗栗",
+      "phone": "djml678",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1118,
+      "nickname": "富山貿易",
+      "phone": "fsmy888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1133,
+      "nickname": "順揚電子",
+      "phone": "sydz888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1158,
+      "nickname": "鬪雞代理蝦皮",
+      "phone": "djxp666",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1164,
+      "nickname": "鬪雞鑫鑫代理",
+      "phone": "djxx666",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1172,
+      "nickname": "鬪雞俊英",
+      "phone": "djjy678",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1200,
+      "nickname": "偉哥",
+      "phone": "wg888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1205,
+      "nickname": "鬪雞代理怡",
+      "phone": "djy777",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1236,
+      "nickname": "鬪雞小龍",
+      "phone": "djxl888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1243,
+      "nickname": "Hp400代理",
+      "phone": "djhp666",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1252,
+      "nickname": "鬪雞阿倫代理",
+      "phone": "djal777",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1254,
+      "nickname": "台中鬪雞森代理",
+      "phone": "djds777",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1315,
+      "nickname": "鬪雞hp41",
+      "phone": "djhp41",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1352,
+      "nickname": "鬪雞267代理",
+      "phone": "dj267",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1382,
+      "nickname": "鬪雞西定代理",
+      "phone": "djcd678",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1388,
+      "nickname": "鬪雞台南線上代理",
+      "phone": "djtw678",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1390,
+      "nickname": "鬪雞台南代理",
+      "phone": "djtn999",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1406,
+      "nickname": "鬪雞代理正",
+      "phone": "djz999",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    },
+    {
+      "agent_id": 1412,
+      "nickname": "太陽城",
+      "phone": "tyc888",
+      "name": "N/A",
+      "account": "N/A",
+      "username": "N/A",
+      "mobile": "N/A",
+      "contact": "N/A"
+    }
+  ]
+}

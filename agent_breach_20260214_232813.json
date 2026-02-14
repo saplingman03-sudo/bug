@@ -1,0 +1,80 @@
+{
+  "vulnerability": "商戶越級訪問代理資料",
+  "severity": "CRITICAL",
+  "token_type": "商戶 Token",
+  "successful_accesses": 5,
+  "agents": [
+    {
+      "agent_id": 16,
+      "username": "N/A",
+      "password": "N/A",
+      "machine_password": "N/A",
+      "nickname": "正式服王牌测试代理",
+      "phone": "cswp1111",
+      "email": "N/A",
+      "status": "N/A",
+      "raw_data": {
+        "agent_ratio": 20,
+        "phone": "cswp1111",
+        "nickname": "正式服王牌测试代理"
+      }
+    },
+    {
+      "agent_id": 26,
+      "username": "N/A",
+      "password": "N/A",
+      "machine_password": "N/A",
+      "nickname": "N/A",
+      "phone": "jjktnhk01",
+      "email": "N/A",
+      "status": "N/A",
+      "raw_data": {
+        "agent_ratio": 0,
+        "phone": "jjktnhk01"
+      }
+    },
+    {
+      "agent_id": 64,
+      "username": "N/A",
+      "password": "N/A",
+      "machine_password": "N/A",
+      "nickname": "共創共享",
+      "phone": "gcgs",
+      "email": "N/A",
+      "status": "N/A",
+      "raw_data": {
+        "agent_ratio": 20,
+        "phone": "gcgs",
+        "nickname": "共創共享"
+      }
+    },
+    {
+      "agent_id": 11,
+      "username": "N/A",
+      "password": "N/A",
+      "machine_password": "N/A",
+      "nickname": "N/A",
+      "phone": "gx01",
+      "email": "N/A",
+      "status": "N/A",
+      "raw_data": {
+        "agent_ratio": 0,
+        "phone": "gx01"
+      }
+    },
+    {
+      "agent_id": 12,
+      "username": "N/A",
+      "password": "N/A",
+      "machine_password": "N/A",
+      "nickname": "N/A",
+      "phone": "gx02",
+      "email": "N/A",
+      "status": "N/A",
+      "raw_data": {
+        "agent_ratio": 0,
+        "phone": "gx02"
+      }
+    }
+  ]
+}

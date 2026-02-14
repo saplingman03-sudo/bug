@@ -1,0 +1,707 @@
+{
+  "scan_time": "2026-02-15T00:12:10.704475",
+  "total_agents": 70,
+  "with_plain_password": 0,
+  "agents": [
+    {
+      "agent_id": 1,
+      "username": "jjk888",
+      "phone": "jjk888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "金傑克",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 16,
+      "username": "cswp1111",
+      "phone": "cswp1111",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "正式服王牌测试代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 51,
+      "username": "gz888",
+      "phone": "gz888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "國正",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 58,
+      "username": "af888",
+      "phone": "af888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿峰25",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 64,
+      "username": "gcgs",
+      "phone": "gcgs",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "共創共享",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 87,
+      "username": "zzb888",
+      "phone": "zzb888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "至尊寶",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 91,
+      "username": "gy888",
+      "phone": "gy888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "高岳",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 96,
+      "username": "ar888",
+      "phone": "ar888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿榮",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 107,
+      "username": "ym888",
+      "phone": "ym888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "玉米",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 133,
+      "username": "at888",
+      "phone": "at888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿泰",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 137,
+      "username": "lag888",
+      "phone": "lag888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "李阿哥",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 139,
+      "username": "di888",
+      "phone": "di888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "丁力",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 160,
+      "username": "wl888",
+      "phone": "wl888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "威利",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 226,
+      "username": "ar40",
+      "phone": "ar40",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿榮40",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 231,
+      "username": "ax888",
+      "phone": "ax888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿賢",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 281,
+      "username": "wl15",
+      "phone": "wl15",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "威利/套件",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 295,
+      "username": "axhkcs",
+      "phone": "axhkcs",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿賢HK測試",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 315,
+      "username": "gd20",
+      "phone": "gd20",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "高大電子",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 363,
+      "username": "xz17",
+      "phone": "xz17",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "信忠",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 378,
+      "username": "jl20",
+      "phone": "jl20",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "錦輪科技",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 383,
+      "username": "zh888",
+      "phone": "zh888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "宗翰",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 440,
+      "username": "kh20",
+      "phone": "kh20",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "可好(小陳)",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 456,
+      "username": "djaf888",
+      "phone": "djaf888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "阿峰八方",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 466,
+      "username": "djcsdl888",
+      "phone": "djcsdl888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬥雞測試代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 482,
+      "username": "rhdz888",
+      "phone": "rhdz888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "日亨電子",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 511,
+      "username": "djzj888",
+      "phone": "djzj888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞珍姐",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 520,
+      "username": "djah888",
+      "phone": "djah888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿鴻",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 521,
+      "username": "djax888",
+      "phone": "djax888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿祥",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 536,
+      "username": "djar555",
+      "phone": "djar555",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿榮代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 549,
+      "username": "djal888",
+      "phone": "djal888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿林",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 560,
+      "username": "dl20",
+      "phone": "dl20",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "丁力dl",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 567,
+      "username": "djcy80",
+      "phone": "djcy80",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞昌運代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 620,
+      "username": "djyy77",
+      "phone": "djyy77",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞友友下線代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 629,
+      "username": "djax555",
+      "phone": "djax555",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿賢代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 644,
+      "username": "dh888",
+      "phone": "dh888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "大合",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 658,
+      "username": "djmj888",
+      "phone": "djmj888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞孟均",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 668,
+      "username": "zd888",
+      "phone": "zd888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "張董",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 693,
+      "username": "sw888",
+      "phone": "sw888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "尚緯電子",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 725,
+      "username": "hmd888",
+      "phone": "hmd888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "好夢達",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 731,
+      "username": "fydz888",
+      "phone": "fydz888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "富業電子",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 819,
+      "username": "djax1234",
+      "phone": "djax1234",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿賢線上代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 876,
+      "username": "xykj888",
+      "phone": "xykj888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "欣揚科技",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 887,
+      "username": "ww6699",
+      "phone": "ww6699",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞育倫代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 899,
+      "username": "wd888",
+      "phone": "wd888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "吳董",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 909,
+      "username": "xd888",
+      "phone": "xd888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "松都(阿賢行口)",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 993,
+      "username": "scace0857",
+      "phone": "scace0857",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "三重ACE",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1002,
+      "username": "wbs01",
+      "phone": "wbs01",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞賢一線",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1004,
+      "username": "scsw01",
+      "phone": "scsw01",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞三重溪尾",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1007,
+      "username": "san01",
+      "phone": "san01",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "三重01專線",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1033,
+      "username": "djyh999",
+      "phone": "djyh999",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞亞虎代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1080,
+      "username": "djfd7777",
+      "phone": "djfd7777",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞代理福德",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1102,
+      "username": "djml678",
+      "phone": "djml678",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞代理苗栗",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1118,
+      "username": "fsmy888",
+      "phone": "fsmy888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "富山貿易",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1133,
+      "username": "sydz888",
+      "phone": "sydz888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "順揚電子",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1158,
+      "username": "djxp666",
+      "phone": "djxp666",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞代理蝦皮",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1164,
+      "username": "djxx666",
+      "phone": "djxx666",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞鑫鑫代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1172,
+      "username": "djjy678",
+      "phone": "djjy678",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞俊英",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1200,
+      "username": "wg888",
+      "phone": "wg888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "偉哥",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1205,
+      "username": "djy777",
+      "phone": "djy777",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞代理怡",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1236,
+      "username": "djxl888",
+      "phone": "djxl888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞小龍",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1243,
+      "username": "djhp666",
+      "phone": "djhp666",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "Hp400代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1252,
+      "username": "djal777",
+      "phone": "djal777",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞阿倫代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1254,
+      "username": "djds777",
+      "phone": "djds777",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "台中鬪雞森代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1315,
+      "username": "djhp41",
+      "phone": "djhp41",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞hp41",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1352,
+      "username": "dj267",
+      "phone": "dj267",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞267代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1382,
+      "username": "djcd678",
+      "phone": "djcd678",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞西定代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1388,
+      "username": "djtw678",
+      "phone": "djtw678",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞台南線上代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1390,
+      "username": "djtn999",
+      "phone": "djtn999",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞台南代理",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1406,
+      "username": "djz999",
+      "phone": "djz999",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "鬪雞代理正",
+      "ratio": "N/A"
+    },
+    {
+      "agent_id": 1412,
+      "username": "tyc888",
+      "phone": "tyc888",
+      "machine_password": "N/A",
+      "password_hash": "N/A",
+      "name": "N/A",
+      "nickname": "太陽城",
+      "ratio": "N/A"
+    }
+  ]
+}

